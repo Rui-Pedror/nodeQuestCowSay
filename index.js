@@ -1,1 +1,1 @@
-const wilder = require('./wilder');
+const wilder = require('./information');
